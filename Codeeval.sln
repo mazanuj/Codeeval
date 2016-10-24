@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "27 DECIMAL TO BINARY", "27 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1 FIZZ BUZZ", "1 FIZZ BUZZ\1 FIZZ BUZZ.csproj", "{49A7A420-D50C-4EBA-A8ED-0D5BBD0CDC69}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2 LONGEST LINES", "2 LONGEST LINES\2 LONGEST LINES.csproj", "{6BBBC651-5B33-4B6B-A011-9C7972AD14AA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{49A7A420-D50C-4EBA-A8ED-0D5BBD0CDC69}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{49A7A420-D50C-4EBA-A8ED-0D5BBD0CDC69}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{49A7A420-D50C-4EBA-A8ED-0D5BBD0CDC69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BBBC651-5B33-4B6B-A011-9C7972AD14AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BBBC651-5B33-4B6B-A011-9C7972AD14AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BBBC651-5B33-4B6B-A011-9C7972AD14AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BBBC651-5B33-4B6B-A011-9C7972AD14AA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

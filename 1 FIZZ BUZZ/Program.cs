@@ -50,7 +50,6 @@ namespace FIZZ_BUZZ
                 Console.WriteLine();
             }
 
-            Console.ReadKey();
             return 0;
         }
     }
