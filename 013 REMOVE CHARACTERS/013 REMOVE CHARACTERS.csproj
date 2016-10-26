@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{1CD0FFAA-C268-49D8-B059-79695B218061}</ProjectGuid>
+    <ProjectGuid>{7FA47F2B-6522-4DD0-A857-0326B44D08E8}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>_012_FIRST_NON_REPEATED_CHARACTER</RootNamespace>
-    <AssemblyName>012 FIRST NON-REPEATED CHARACTER</AssemblyName>
+    <RootNamespace>_013_REMOVE_CHARACTERS</RootNamespace>
+    <AssemblyName>013 REMOVE CHARACTERS</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

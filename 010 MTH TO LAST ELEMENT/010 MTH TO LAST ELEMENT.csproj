@@ -8,7 +8,7 @@
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>_010_MTH_TO_LAST_ELEMENT</RootNamespace>
-    <AssemblyName>_010_MTH_TO_LAST_ELEMENT</AssemblyName>
+    <AssemblyName>010 MTH TO LAST ELEMENT</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

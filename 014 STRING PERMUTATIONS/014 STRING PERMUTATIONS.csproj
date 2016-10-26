@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{1CD0FFAA-C268-49D8-B059-79695B218061}</ProjectGuid>
+    <ProjectGuid>{A8F7384B-4C97-43EA-ADED-F026453D709A}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>_012_FIRST_NON_REPEATED_CHARACTER</RootNamespace>
-    <AssemblyName>012 FIRST NON-REPEATED CHARACTER</AssemblyName>
+    <RootNamespace>_014_STRING_PERMUTATIONS</RootNamespace>
+    <AssemblyName>014 STRING PERMUTATIONS</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
